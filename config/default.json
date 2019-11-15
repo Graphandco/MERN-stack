@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://reggio:Mlhwl2105@graphandco-zopai.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://reggio:Mlhwl2105@graphandco-zopai.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
