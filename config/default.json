@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://reggio:Mlhwl2105@graphandco-zopai.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "0f19ea357035a0afdbef",
+  "githubSecret": "a3312bf4deddc46e6c6267a8b153d80f84e4915b"
 }
