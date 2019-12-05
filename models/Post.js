@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const Schema = mangoose.Schema;
+const Schema = mongoose.Schema;
 
 const PostSchema = new Schema({
   user: {
@@ -14,7 +14,7 @@ const PostSchema = new Schema({
     type: String
   },
   avatar: {
-    type: string
+    type: String
   },
   likes: [
     {
